@@ -1,0 +1,50 @@
+.body-class {
+    background-color: #f4d0b1
+}
+.header-class {
+    background-color: #3E2723;
+    color: white;
+    padding: 20px;
+}
+.nav-class {
+    background-color: #7c5244;
+}
+.nav-class a {
+    color: rgb(255, 231, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold
+}
+.title-class {
+    color: rgb(255, 236, 227);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.section-title-class {
+    color: #65360b;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.text-class {
+    color: #301209;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.image-class {
+    border: 5px solid #351d07 
+}
+.form-class input {
+    border: 1px solid brown;
+}
+.form-class textarea {
+    border: 1px solid brown;
+}
+.button-class {
+    background-color: #492904; 
+    color: white;
+}
+.button-class:hover {
+    background-color: #c7b995;
+}
+.footer-class {
+    background-color: #ffe0d9;
+    color: black;
+    padding: 10px;
+    margin-top: 20px;
+}
